@@ -12,6 +12,6 @@
 - #### game: &nbsp;<img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/>
 - #### (studying): &nbsp;<img src="https://img.shields.io/badge/TS-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Next-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Nest-E0234E?style=flat&logo=NestJs&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=Unreal Engine&logoColor=white"/>
 ---
-### Etc..
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juicyaloe&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juicyaloe&hide=ShaderLab,HLSL&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+### Etc..
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juicyaloe&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juicyaloe&hide=ShaderLab,HLSL&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
